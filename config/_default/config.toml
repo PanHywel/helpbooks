@@ -1,4 +1,4 @@
-baseurl = "https://www.HelpBook.cn/"
+baseurl = "./"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
