@@ -34,7 +34,7 @@
     "precheck": "npm version",
     "check": "exec-bin node_modules/.bin/hugo/hugo version",
     "copy:katex-fonts": "shx cp ./node_modules/katex/dist/fonts/* ./static/fonts/",
-    "postinstall": "hugo-installer --downloadUrl https://hub.fastgit.xyz/gohugoio/hugo/releases/download --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo",
+    "postinstall": "hugo-installer --downloadUrl https://hub.fastgit.xyz/gohugoio/hugo/releases/download/ --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo",
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "devDependencies": {
