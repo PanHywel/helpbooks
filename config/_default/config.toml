@@ -1,4 +1,4 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://www.HelpBook.cn/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -9,7 +9,7 @@ paginate = 7
 rssLimit = 10
 
 # Multilingual
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
 

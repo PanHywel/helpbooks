@@ -1,11 +1,11 @@
 - id: get-started
-  translation: "Get Started"
+  translation: "快速开始"
 
 - id: on-this-page
   translation: "On this page"
 
 - id: search-text
-  translation: "Search docs..."
+  translation: "搜索"
 
 - id: 404-title
   translation: "Page not found :("
