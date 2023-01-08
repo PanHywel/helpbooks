@@ -9,7 +9,7 @@ hexo.extend.helper.register("contributing", function () {
 
 hexo.extend.helper.register("edit_page", function () {
     let postPage = this.page['layout'] === 'post';
-    let url = "https://github.com/panhywel/reference";
+    let url = "https://github.com/PanHywel/helpbooks";
     if (postPage) {
         url += `/blob/main/source/_posts/${this.page.slug}.md`;
     }
