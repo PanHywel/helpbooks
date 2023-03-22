@@ -38,7 +38,7 @@
     "hexo-pagination": "^2.0.0",
     "hexo-related-popular-posts": "^5.0.1",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-markdown-it": "^5.0.0",
+    "hexo-renderer-markdown-it": "^7.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
     "markdown-it-abbr": "^1.0.4",
