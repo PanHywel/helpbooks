@@ -27,7 +27,7 @@
     "gulp-postcss": "^9.0.1",
     "gulp-uglify-es": "^3.0.0",
     "gulp-version-number": "^0.2.4",
-    "hexo": "^5.4.0",
+    "hexo": "^7.1.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-cli": "^4.3.0",
     "hexo-excerpt": "^1.2.1",
